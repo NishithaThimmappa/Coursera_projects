@@ -16,3 +16,14 @@ This repository contains the projects that I completed
  - For example, an object detection model where a CNN is trained to find all class instances in the input images as well as give a regression output to localize the detected class instances in the input. 
  - The project uses the Google Colab environment. 
  - Certificate can be found at [Click here](https://coursera.org/share/b38efcce556b43799809c59c244e4c38)
+
+
+### # Project 3 : Object Localization with TensorFlow
+
+- In this guided project, I used TensorFlow's Keras API to create a convolutional neural network which will be trained to classify as well as localize emojis in images. 
+- Localization, in this context, means the position of the emojis in the images. This means that the network will have one input and two outputs. Think of this task as a simpler version of Object Detection. 
+- In Object Detection, we might have multiple objects in the input images, and an object detection model predicts the classes as well as bounding boxes for all of those objects. 
+-  In Object Localization, we are working with the assumption that there is just one object in any given image, and our CNN model will classify and localize that object
+- The project uses the Google Colab environment. 
+- Certificate can be found at [Click here](https://coursera.org/share/e70d8bc6ee679d022db99c291e83dcd5)
+
