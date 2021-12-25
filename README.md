@@ -27,3 +27,9 @@ This repository contains the projects that I completed
 - The project uses the Google Colab environment. 
 - Certificate can be found at [Click here](https://coursera.org/share/e70d8bc6ee679d022db99c291e83dcd5)
 
+### # Project 4 : Image Classification with CNNs using Keras
+
+- Created a Convolutional Neural Network (CNN) in Keras with a TensorFlow backend, and  learnt to train CNNs to solve Image Classification problems. In this project, I created and trained a CNN model on a subset of the popular CIFAR-10 dataset
+- The project uses the Google Colab environment. 
+
+
