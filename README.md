@@ -32,7 +32,7 @@ This repository contains the projects that I completed
 - Created a Convolutional Neural Network (CNN) in Keras with a TensorFlow backend, and  learnt to train CNNs to solve Image Classification problems. In this project, I created and trained a CNN model on a subset of the popular CIFAR-10 dataset
 - The project uses the Google Colab environment. 
 
-### # Project 4 : Transfer_learning_and_fine_tuning
+### # Project 5 : Transfer_learning_and_fine_tuning
 - Classify images of cats and dogs by using transfer learning from a pre-trained network.
 - The project uses the Google Colab environment. 
 
