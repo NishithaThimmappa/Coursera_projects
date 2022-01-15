@@ -36,4 +36,9 @@ This repository contains the projects that I completed
 - Classify images of cats and dogs by using transfer learning from a pre-trained network.
 - The project uses the Google Colab environment. 
 
+### # Project 6 : Face Recognition using FaceNet, MTCNN and SVM
+- Develop a face detection system using FaceNet and an SVM classifier to identify people from photographs
+- I used the pre-trained Keras FaceNet model for face embedding, and used the Multi-Task Cascaded Convolutional Neural Network, or MTCNN, for face detection and SVM as a classification model for face classification.
+- The project uses the Google Colab environment. 
+
 
